@@ -6,5 +6,5 @@ class Config {
   static const double gravity = -120.0;
   static const double cloudsHeight = 70.0;
 
-  static const double pipesSpacing = 150;
+  static const double pipesSpacing = 180;
 }
