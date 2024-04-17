@@ -21,8 +21,7 @@ If you don't have Flutter installed, follow the installation guide [here](https:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flappy-bird-clone.git
-cd flappy-bird-clone
+git clone https://github.com/RoyGF/FlappyBird.git
 ```
 
 2. Install the dependencies:
@@ -48,7 +47,6 @@ flutter run
 - [Flutter](https://flutter.dev/) - The UI framework used.
 - [Flame Engine](https://flame-engine.org/) - A minimalistic game engine for Flutter.
 
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -57,5 +55,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <img src="https://github.com/RoyGF/FlappyBird/assets/16839948/b5f22a8d-50c0-4f35-8479-5d44a689f18a" width="250" alt="Screenshot 1">
 <img src="https://github.com/RoyGF/FlappyBird/assets/16839948/91ee14c6-c76d-4ac2-ad87-237ab9e8f66f" width="250" alt="Screenshot 2">
-
-
